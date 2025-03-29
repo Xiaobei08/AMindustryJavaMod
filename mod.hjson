@@ -1,23 +1,24 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "更简单的MDY"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "easier-mdy"
 
 #your name
-author: "You"
+author: "Arcloud&Xiaobei&Huohuo"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "EasierMdy.EasierMdy"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+#在游戏内显示的模组描述
+description: "一个添加了个人想法的模组"
 
 #the mod version
-version: 1.0
+version: 0.1
 
 #the minimum game build required to run this mod
-minGameVersion: 145
+minGameVersion: 146
 
 #this is a java mod
 java: true
